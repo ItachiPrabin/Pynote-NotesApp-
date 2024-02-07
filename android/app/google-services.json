@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "315166867005",
+    "project_id": "meronote-c6e6f",
+    "storage_bucket": "meronote-c6e6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315166867005:android:0e63fd1120dc8a8bb53454",
+        "android_client_info": {
+          "package_name": "com.example.meronote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsZiloLf36V_GF3jguCLxuRktd6dNQVR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
