@@ -1,5 +1,4 @@
-# meronote
-
+#PyNote
 meronote flutter project
 
 ## Getting Started
