@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560289704633",
+    "project_id": "pynote-bcd75",
+    "storage_bucket": "pynote-bcd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560289704633:android:a1a18e8d61fe27beb34968",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAF9CSL2Or6zxAb9GNO8yzGwiekrC6I07k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
